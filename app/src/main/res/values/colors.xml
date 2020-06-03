@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="corBtnSoja">#66BB6A</color>
+    <color name="corBtnFeijao">#795548</color>
+    <color name="corBtnMilho">#FFEE58</color>
+    <color name="corBtnSorgo">#BCAAA4</color>
+    <color name="corRelatorioClassificacao">#6C78AF</color>
+    <color name="corRelatorioAmostragem">#F89C0E</color>
+    <color name="colorPrimary">#6200EE</color>
+</resources>
